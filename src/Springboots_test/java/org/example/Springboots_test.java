@@ -12,7 +12,7 @@ import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 import java.util.List;
 
-public class Main {
+public class Springboots_test {
 
     private static final ObjectMapper objectMapper = new ObjectMapper();
 
